@@ -1,7 +1,7 @@
 ---
-name: "\U0001F91D {project name} Meeting Minutes"
-about: To track {project name} meeting agenda and attendance
-title: DD MMM YYYY - {project name} Meeting Minutes
+name: "\U0001F91D cfi-terraform-template-child-module Meeting Minutes"
+about: To track cfi-terraform-template-child-module meeting agenda and attendance
+title: DD MMM YYYY - cfi-terraform-template-child-module Meeting Minutes
 labels: meeting
 assignees: 
 
