@@ -1,2 +1,2 @@
-## main.tf terraform configuration
+# main.tf terraform configuration
 #

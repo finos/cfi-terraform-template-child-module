@@ -1,2 +1,2 @@
-## outputs.tf terraform configuration
+# outputs.tf terraform configuration
 #

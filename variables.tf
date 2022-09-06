@@ -1,4 +1,4 @@
-## variables.tf terraform configuration
+# variables.tf terraform configuration
 #
 # variable "example" {
 #   type        = string
