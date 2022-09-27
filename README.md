@@ -1,8 +1,22 @@
 # Terraform Child Module Template
 
+## To get a new child module
+
+To clone this repo for a new child module, please create an issue using the following format:
+
+**Title:**  `Create repo: your-repo-name`
+
+**Subject:** *A short blurb explaining what this repo is for and who will contribute to it*
+
+## After your new repo is created
+
 Adjust this readme as part of your first commit after creating a repository from this template.
 
 [See here](https://github.com/terraform-docs/terraform-docs) for more information about the Terraform docs generator.
+
+Example of generated docs is below.
+
+-----
 
 <!-- BEGIN_TF_DOCS -->
 [![FINOS - Incubating](https://cdn.jsdelivr.net/gh/finos/contrib-toolbox@master/images/badge-incubating.svg)](https://finosfoundation.atlassian.net/wiki/display/FINOS/Incubating)
