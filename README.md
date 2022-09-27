@@ -4,9 +4,10 @@
 
 To clone this repo for a new child module, please create an issue using the following format:
 
-**Title:**  `Create repo: your-repo-name`
+- **Title:**  `Create repo: your-repo-name`
+- **Subject:** *A short blurb explaining what this repo is for and who will contribute to it*
 
-**Subject:** *A short blurb explaining what this repo is for and who will contribute to it*
+Discussion from the community and approval from the maintainers should then take place. Upon maintainer approval, a FINOS technical support staff member should be contacted and assigned the issue.
 
 ## After your new repo is created
 
