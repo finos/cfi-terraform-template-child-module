@@ -21,7 +21,6 @@ Example of generated docs is below.
 
 <!-- BEGIN_TF_DOCS -->
 [![FINOS - Incubating](https://cdn.jsdelivr.net/gh/finos/contrib-toolbox@master/images/badge-incubating.svg)](https://finosfoundation.atlassian.net/wiki/display/FINOS/Incubating)
-![website build](https://github.com/finos/cfi-terraform-template-child-module/workflows/Docusaurus-website-build/badge.svg)
 
 # terraform-provider-function
 
